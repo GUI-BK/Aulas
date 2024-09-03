@@ -1,0 +1,55 @@
+body{
+    background-color:black;
+}
+#menu{
+    margin-bottom: 20px;
+    width: 100%;
+    display: block;
+    float: left;
+}
+#menu ul li {
+    list-style-type: none;
+    float: left;
+    padding-left: 20px;
+}
+#menu ul li a {
+    background-color: mediumorchid;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: black;
+}
+#menu ul li a:hover{
+    background-color:skyblue;
+    text-decoration: underline;
+    color: purple;
+}
+.bloco{
+    width: 50%;
+    height: auto;
+    display: block;
+    border: 5px solid red;
+    padding-top: 100px;
+}
+.bloco img {
+    width: 45%;
+
+
+}
+.bloco p{
+    width: 45%;
+    margin: 5%;
+    background-color: black;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+}
+.esq {
+    float: left;
+}
+.dir {
+    float: right;
+}
+.cor-preto{
+    background-color: black;
+}

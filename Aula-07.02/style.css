@@ -1,0 +1,17 @@
+
+#bola1 {background-color: black;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+display: block;
+}
+.up-arrow {
+
+    width: 0px;
+    height:  0px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 50px solid green;
+    margin: 2rem;
+    padding-top: 80px;
+}
